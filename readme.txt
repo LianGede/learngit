@@ -6,5 +6,7 @@ git git asd
 git asd asd asd 
 git tracks changes of files.
 git is very good
-Creating a new branch is quick @ simple
+<<<<<<< HEAD
+Creating a new branch is quick and simple
 haha wo shi zhi zhang
+
